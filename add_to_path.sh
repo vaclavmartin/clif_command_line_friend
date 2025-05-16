@@ -1,0 +1,1 @@
+sudo cp clif.sh /usr/local/bin/clif
